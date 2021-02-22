@@ -1,6 +1,16 @@
 @@||analytics.google.com^
 @@||analytics.twitter.com^
 @@||manhuabei.com^
+@@||azure.com^
+@@||microsoft.com^
+@@||gstatic.com^
+@@||windows.com^
+@@||live.com^
+@@||google-analytics.com^
+@@||maccms.com^
+@@||gvt2.com^
+@@||googleapis.com^
+
 
 /googleads.$~script,domain=~googleads.github.io
 /pagead/lvz?
@@ -9,48 +19,17 @@
 ||youtube.com/get_midroll_
 
 
-@@||azure.com^
-@@||keli.fun^
-@@||microsoft.com^
-@@||fonts.gstatic.com^
-@@||windows.com^
-@@||live.com^
-
-||ferentshugge.top^
-||stsunfulnoth.top^
-||gosyncrise.com^
-||tsyndicate.com^
-||us4post.com^
-||kingshape.top^
-||houtrelen.top^
-||gthhumili.top^
-||llerscover.top^
-||nmentsce.top^
-||exdynsrv.com^
-||trwl1.com^
-||tratefirearly.top^
-||engingalon.top^
-||secure-mobile.club^
-||guemechan.top^
-||main.exdynsrv.com^
-||rtb.us4post.com^
-||us4post.com^
-||endsensura.top^
-||realtime-bid.com^
-||nvergetpatr.top^
-||massessede.top^
-||pentialin.fun^
-||forthfinge.fun^
-||ncediscou.fun^
-||rovalionsa.fun^
-||tionmustai.fun^
-||ytxe8.xyz^
 ||5hz.org^
-||rindicalapa.fun^
-||rtpetworki.fun^
-||ngsbeautio.fun^
-||videosubsi.fun^
-||standnizati.fun^
-
+||33377*.com^
+||img.downk.cc^
+||wofjhs.com^
+||x08880.com^
+||czisland.com^
+||liangzhongmiye.com^
+||mbiaowx.com^
+||pic.cytcm.com^
+@@||tagtic.cn^
+@@||knet.cn^
+@@||anquan.org^
 
 
